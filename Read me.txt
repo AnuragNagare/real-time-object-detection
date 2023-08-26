@@ -33,7 +33,7 @@ python object_detection.py
 
 Watch a quick video demonstration of the real-time object detection in action:
 
-[![Video Demo](video_thumbnail.png)](https://drive.google.com/file/d/1RfBVE6I_1gNBImV5zabI2E51rjzeNB84/view?usp=sharing)
+[![Video Demo](video_thumbnail.png)](https://anuragnagare77.wistia.com/medias/i4xca0db90?embedType=async&seo=true&videoFoam=true&videoWidth=640)
 
 
 
