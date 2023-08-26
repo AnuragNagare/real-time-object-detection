@@ -29,6 +29,13 @@ cd real-time-object-detection
 Run the script:
 python object_detection.py
 
+## Video Demonstration
+
+Watch a quick video demonstration of the real-time object detection in action:
+
+[![Video Demo](video_thumbnail.png)](https://drive.google.com/file/d/1RfBVE6I_1gNBImV5zabI2E51rjzeNB84/view?usp=sharing)
+
+
 
 Enjoy the real-time object detection using your webcam!
 
