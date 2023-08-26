@@ -1,1 +1,1 @@
-[Watch the Video]([https://link-to-your-video](https://anuragnagare77.wistia.com/medias/i4xca0db90?embedType=async&seo=true&videoFoam=true&videoWidth=640)https://anuragnagare77.wistia.com/medias/i4xca0db90?embedType=async&seo=true&videoFoam=true&videoWidth=640)
+[Watch the Video]([https://link-to-your-video](https://anuragnagare77.wistia.com/medias/i4xca0db90)
