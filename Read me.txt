@@ -1,0 +1,36 @@
+# Real-time Object Detection with YOLOv3 and OpenCV
+
+![Demo](demo.gif)
+
+## Description
+
+This project demonstrates real-time object detection using the YOLOv3 model and OpenCV. The code captures video from your webcam and performs object detection on each frame. Detected objects are highlighted with bounding boxes, and their information is announced using text-to-speech. The project showcases the capabilities of computer vision, deep learning, and real-time interaction.
+
+## Features
+
+- YOLOv3 Model: Utilizes the YOLO (You Only Look Once) model for object detection.
+- OpenCV Integration: Leverages OpenCV's computer vision functions for frame processing.
+- Text-to-Speech: Utilizes the `pyttsx3` library to announce detected object information.
+- Bounding Boxes: Draws bounding boxes and labels around detected objects for visualization.
+- Optimization: Implements efficiency optimizations for smoother real-time performance.
+
+## Usage
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/real-time-object-detection.git
+
+
+Navigate to the project directory:
+cd real-time-object-detection
+
+
+Run the script:
+python object_detection.py
+
+
+Enjoy the real-time object detection using your webcam!
+
+Results
+Detected object information will be displayed on the video feed and announced through text-to-speech. Additionally, a list of detected objects will be printed once the detection loop ends.
